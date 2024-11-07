@@ -1,0 +1,11 @@
+Write  a python program that takes an input of average marks from the user and then categorizes the grade as follows:
+
+the grade as follows:
+
+- if marks are less than or equal to 100 but greater than or equal to 80, the grade is 'A+.'
+- if marks are less than 80 but greater than or equal to 70, the grade is 'A.'
+- if marks are less than 70 but greater than or equal to 60, the grade is 'A-.'
+- if marks are less than 60 but greater than or equal to 50, the grade is 'B.'
+- if marks are less than 50 but greater than or equal to 40, the grade is 'C.'
+- if marks are less than 40 but greater than or equal to 33, the grade is 'C.'
+- if marks are less than 33, the grade is'Fail.'
